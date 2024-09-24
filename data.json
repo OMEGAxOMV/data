@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "farmer_name": "Balaraam Patil",
+        "photo_link": "Basmati Rice",
+        "caption": "Lush green rice fields of basmati rice",
+        "category": "Grain",
+        "location": "Raigad Maharashtra India",
+        "phone_number": "+91 98765 43210",
+        "email": "balaraampatil@gmail.com"
+    },
+    {
+        "id": 2,
+        "farmer_name": "Balaraam Patil",
+        "photo_link": "Pulses",
+        "caption": "High-quality pulses",
+        "category": "Grain",
+        "location": "Raigad Maharashtra India",
+        "phone_number": "+91 98765 43210",
+        "email": "balaraampatil@gmail.com"
+    },
+    {
+        "id": 3,
+        "farmer_name": "Vikram Bidaye",
+        "photo_link": "Coconut Farming",
+        "caption": "Huge coconut trees filled with coconuts",
+        "category": "Fruit",
+        "location": "Ratnagiri Maharashtra India",
+        "phone_number": "+91 87654 32109",
+        "email": "vikrambidaye@gmail.com"
+    },
+    {
+        "id": 4,
+        "farmer_name": "Vikram Bidaye",
+        "photo_link": "Cashew Tree",
+        "caption": "Cashew tree with fruits",
+        "category": "Fruit",
+        "location": "Ratnagiri Maharashtra India",
+        "phone_number": "+91 76543 21098",
+        "email": "vikrambidaye@gmail.com"
+    },
+    {
+        "id": 5,
+        "farmer_name": "Vikram Bidaye",
+        "photo_link": "Spices",
+        "caption": "Freshly harvested spices",
+        "category": "Spice",
+        "location": "Ratnagiri Maharashtra India",
+        "phone_number": "+91 76543 21098",
+        "email": "vikrambidaye@gmail.com"
+    },
+    {
+        "id": 6,
+        "farmer_name": "Amrit Singh",
+        "photo_link": "Wheat Crop",
+        "caption": "Wheat crops spread across acres",
+        "category": "Grain",
+        "location": "Amritsar Punjab India",
+        "phone_number": "+91 65432 10987",
+        "email": "amritsingh@gmail.com"
+    },
+    {
+        "id": 7,
+        "farmer_name": "Amrit Singh",
+        "photo_link": "Barley",
+        "caption": "Barley crop growing nicely",
+        "category": "Grain",
+        "location": "Amritsar Punjab India",
+        "phone_number": "+91 65432 10987",
+        "email": "amritsingh@gmail.com"
+    },
+    {
+        "id": 8,
+        "farmer_name": "Rakesh Kumar",
+        "photo_link": "Lentils Harvest",
+        "caption": "Yellow lentils ready for harvest",
+        "category": "Grain",
+        "location": "Patna Bihar India",
+        "phone_number": "+91 54321 09876",
+        "email": "rakeshkumar@gmail.com"
+    },
+    {
+        "id": 9,
+        "farmer_name": "Rakesh Kumar",
+        "photo_link": "Chickpeas",
+        "caption": "Chickpeas grown in fields",
+        "category": "Grain",
+        "location": "Patna Bihar India",
+        "phone_number": "+91 54321 09876",
+        "email": "rakeshkumar@gmail.com"
+    },
+    {
+        "id": 10,
+        "farmer_name": "Rajesh Yadav",
+        "photo_link": "Jowar Crop",
+        "caption": "Jowar crop thriving under the sun",
+        "category": "Grain",
+        "location": "Varanasi Uttar Pradesh India",
+        "phone_number": "+91 43210 98765",
+        "email": "rajeshyadav@gmail.com"
+    },
+    {
+        "id": 11,
+        "farmer_name": "Preeti Rani",
+        "photo_link": "Bajra Crop",
+        "caption": "Healthy bajra (pearl millet) crop",
+        "category": "Grain",
+        "location": "Jaipur Rajasthan India",
+        "phone_number": "+91 32109 87654",
+        "email": "preetirani@gmail.com"
+    },
+    {
+        "id": 12,
+        "farmer_name": "Shyam Verma",
+        "photo_link": "Groundnuts",
+        "caption": "Groundnuts harvested and ready to sell",
+        "category": "Grain",
+        "location": "Bhavnagar Gujarat India",
+        "phone_number": "+91 21098 76543",
+        "email": "shyamverma@gmail.com"
+    },
+    {
+        "id": 13,
+        "farmer_name": "Shyam Verma",
+        "photo_link": "Cotton",
+        "caption": "Cotton crop grown in full bloom",
+        "category": "Textile",
+        "location": "Bhavnagar Gujarat India",
+        "phone_number": "+91 21098 76543",
+        "email": "shyamverma@gmail.com"
+    },
+    {
+        "id": 14,
+        "farmer_name": "Shyam Verma",
+        "photo_link": "Millets",
+        "caption": "Millets swaying in the wind",
+        "category": "Grain",
+        "location": "Bhavnagar Gujarat India",
+        "phone_number": "+91 21098 76543",
+        "email": "shyamverma@gmail.com"
+    },
+    {
+        "id": 15,
+        "farmer_name": "Sumanth Reddy",
+        "photo_link": "Sorghum Crop",
+        "caption": "Sorghum crop swaying in the wind",
+        "category": "Grain",
+        "location": "Anantapur Andhra Pradesh India",
+        "phone_number": "+91 09876 54321",
+        "email": "sumanthreddy@gmail.com"
+    },
+    {
+        "id": 16,
+        "farmer_name": "Sumanth Reddy",
+        "photo_link": "Millets",
+        "caption": "Millets in sunshine",
+        "category": "Grain",
+        "location": "Anantapur Andhra Pradesh India",
+        "phone_number": "+91 09876 54321",
+        "email": "sumanthreddy@gmail.com"
+    },
+    {
+        "id": 17,
+        "farmer_name": "Nitesh Patel",
+        "photo_link": "Cotton Bolls",
+        "caption": "Fresh cotton bolls ready for picking",
+        "category": "Textile",
+        "location": "Surat Gujarat India",
+        "phone_number": "+91 98765 43211",
+        "email": "niteshpatel@gmail.com"
+    },
+    {
+        "id": 18,
+        "farmer_name": "Geeta Devi",
+        "photo_link": "Red Chili",
+        "caption": "Array of dried red chili",
+        "category": "Spice",
+        "location": "Guntur Andhra Pradesh India",
+        "phone_number": "+91 87654 32110",
+        "email": "geetadevi@gmail.com"
+    },
+    {
+        "id": 19,
+        "farmer_name": "Ajay Sharma",
+        "photo_link": "Mustard Seeds",
+        "caption": "Mustard seeds growing in abundance",
+        "category": "Oilseeds",
+        "location": "Kota Rajasthan India",
+        "phone_number": "+91 76543 21099",
+        "email": "ajaysharma@gmail.com"
+    },
+    {
+        "id": 20,
+        "farmer_name": "Ajay Sharma",
+        "photo_link": "Barley",
+        "caption": "Nutritious Barley",
+        "category": "Grain",
+        "location": "Kota Rajasthan India",
+        "phone_number": "+91 76543 21099",
+        "email": "ajaysharma@gmail.com"
+    },
+    {
+        "id": 21,
+        "farmer_name": "Abhishek Singh",
+        "photo_link": "Bajra",
+        "caption": "Bajra crop flourishing",
+        "category": "Grain",
+        "location": "Bhopal Madhya Pradesh India",
+        "phone_number": "+91 65432 10988",
+        "email": "abhisheksingh@gmail.com"
+    },
+    {
+        "id": 22,
+        "farmer_name": "Kavita Patil",
+        "photo_link": "Maize Fields",
+        "caption": "Maize fields stretching far and wide",
+        "category": "Grain",
+        "location": "Kolhapur Maharashtra India",
+        "phone_number": "+91 54321 09877",
+        "email": "kavitapatil@gmail.com"
+    },
+    {
+        "id": 23,
+        "farmer_name": "Kavita Patil",
+        "photo_link": "Cotton",
+        "caption": "Cotton fields in sunshine",
+        "category": "Textile",
+        "location": "Kolhapur Maharashtra India",
+        "phone_number": "+91 54321 09877",
+        "email": "kavitapatil@gmail.com"
+    },
+    {
+        "id": 24,
+        "farmer_name": "Vivek Rao",
+        "photo_link": "Black Gram",
+        "caption": "Black gram pulses ready for collection",
+        "category": "Grain",
+        "location": "Hyderabad Telangana India",
+        "phone_number": "+91 43210 98766",
+        "email": "vivekrao@gmail.com"
+    },
+    {
+        "id": 25,
+        "farmer_name": "Gauri Deshmukh",
+        "photo_link": "Chickpeas",
+        "caption": "Fresh chickpeas ripe and ready",
+        "category": "Grain",
+        "location": "Nagpur Maharashtra India",
+        "phone_number": "+91 32109 87655",
+        "email": "gaurideshmukh@gmail.com"
+    },
+    {
+        "id": 26,
+        "farmer_name": "Anil Choudhary",
+        "photo_link": "Soybean Fields",
+        "caption": "Fields of soybean shining under the sun",
+        "category": "Grain",
+        "location": "Indore Madhya Pradesh India",
+        "phone_number": "+91 21098 76544",
+        "email": "anilchoudhary@gmail.com"
+    },
+    {
+        "id": 27,
+        "farmer_name": "Anil Choudhary",
+        "photo_link": "Pulses",
+        "caption": "Pulses grown in good conditions",
+        "category": "Grain",
+        "location": "Indore Madhya Pradesh India",
+        "phone_number": "+91 21098 76544",
+        "email": "anilchoudhary@gmail.com"
+    },
+    {
+        "id": 28,
+        "farmer_name": "Pooja Jat",
+        "photo_link": "Barley Crops",
+        "caption": "Barley crops swaying in the breeze",
+        "category": "Grain",
+        "location": "Jodhpur Rajasthan India",
+        "phone_number": "+91 09876 54322",
+        "email": "poojajat@gmail.com"
+    },
+    {
+        "id": 29,
+        "farmer_name": "Harish Gupta",
+        "photo_link": "Green Gram",
+        "caption": "Green gram (moong) pulses growing healthily",
+        "category": "Grain",
+        "location": "Lucknow Uttar Pradesh India",
+        "phone_number": "+91 98765 43212",
+        "email": "harishgupta@gmail.com"
+    },
+    {
+        "id": 30,
+        "farmer_name": "Manjeet Kaur",
+        "photo_link": "Black Peppercorns",
+        "caption": "Black peppercorns drying in the sun",
+        "category": "Spice",
+        "location": "Pathankot Punjab India",
+        "phone_number": "+91 94632 54637",
+        "email": "manjeetkaur@gmail.com"
+    },
+    {
+        "id": 31,
+        "farmer_name": "Tejaswini Naik",
+        "photo_link": "Coriander Seeds",
+        "caption": "Coriander seeds harvested for market",
+        "category": "Spice",
+        "location": "Dharwad Karnataka India",
+        "phone_number": "+91 76543 21098",
+        "email": "tejaswininaik@gmail.com"
+    },
+    {
+        "id": 32,
+        "farmer_name": "Mukesh Solanki",
+        "photo_link": "Cotton Harvest",
+        "caption": "Cotton fields ready for harvest",
+        "category": "Textile",
+        "location": "Ujjain Madhya Pradesh India",
+        "phone_number": "+91 65432 10989",
+        "email": "mukeshsolanki@gmail.com"
+    },
+    {
+        "id": 33,
+        "farmer_name": "Mukesh Solanki",
+        "photo_link": "Groundnuts",
+        "caption": "Groundnuts planted with cotton",
+        "category": "Grain",
+        "location": "Ujjain Madhya Pradesh India",
+        "phone_number": "+91 65432 10989",
+        "email": "mukeshsolanki@gmail.com"
+    },
+    {
+        "id": 34,
+        "farmer_name": "Deepak Jadhav",
+        "photo_link": "Groundnuts",
+        "caption": "Groundnuts prepared for processing",
+        "category": "Grain",
+        "location": "Nashik Maharashtra India",
+        "phone_number": "+91 54321 09878",
+        "email": "deepakjadhav@gmail.com"
+    },
+    {
+        "id": 35,
+        "farmer_name": "Ashok Rana",
+        "photo_link": "Rice Fields",
+        "caption": "Thriving rice fields ready for harvest",
+        "category": "Grain",
+        "location": "Karnal Haryana India",
+        "phone_number": "+91 43210 98767",
+        "email": "ashokrana@gmail.com"
+    },
+    {
+        "id": 36,
+        "farmer_name": "Ashok Rana",
+        "photo_link": "Millets",
+        "caption": "Millets growing with other crops",
+        "category": "Grain",
+        "location": "Karnal Haryana India",
+        "phone_number": "+91 43210 98767",
+        "email": "ashokrana@gmail.com"
+    },
+    {
+        "id": 37,
+        "farmer_name": "Lata Sharma",
+        "photo_link": "Flax Seeds",
+        "caption": "High-quality flax seeds",
+        "category": "Oilseeds",
+        "location": "Alwar Rajasthan India",
+        "phone_number": "+91 32109 87656",
+        "email": "latasharma@gmail.com"
+    },
+    {
+        "id": 38,
+        "farmer_name": "Suresh Chauhan",
+        "photo_link": "Mustard Oilseeds",
+        "caption": "Mustard oilseeds for oil extraction",
+        "category": "Oilseeds",
+        "location": "Jalandhar Punjab India",
+        "phone_number": "+91 21098 76545",
+        "email": "sureshchauhan@gmail.com"
+    },
+    {
+        "id": 39,
+        "farmer_name": "Sanjay Borkar",
+        "photo_link": "Turmeric",
+        "caption": "Freshly harvested turmeric",
+        "category": "Spice",
+        "location": "Nanded Maharashtra India",
+        "phone_number": "+91 09876 54323",
+        "email": "sanjayborkar@gmail.com"
+    },
+    {
+        "id": 40,
+        "farmer_name": "Vinay Shetty",
+        "photo_link": "Black Pepper",
+        "caption": "Black peppercorns ready for market",
+        "category": "Spice",
+        "location": "Mangalore Karnataka India",
+        "phone_number": "+91 98765 43213",
+        "email": "vinayshetty@gmail.com"
+    },
+    {
+        "id": 41,
+        "farmer_name": "Pankaj Rathi",
+        "photo_link": "Wheat",
+        "caption": "Wheat fields in full bloom",
+        "category": "Grain",
+        "location": "Aligarh Uttar Pradesh India",
+        "phone_number": "+91 87654 32112",
+        "email": "pankajrathi@gmail.com"
+    },
+    {
+        "id": 42,
+        "farmer_name": "Shikha Mehra",
+        "photo_link": "Bajra Crop",
+        "caption": "Bajra crop ready for harvest",
+        "category": "Grain",
+        "location": "Bikaner Rajasthan India",
+        "phone_number": "+91 76543 21097",
+        "email": "shikhamehra@gmail.com"
+    }
+]
