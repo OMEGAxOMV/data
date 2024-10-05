@@ -1,12 +1,23 @@
 const express = require('express');
+const fs = require('fs');
 const app = express();
-const data = require('./data.json'); // Assuming your JSON file is named data.json
+const port = 3000;
 
-app.get('/farmers', (req, res) => {
-    res.json(data);
+// Middleware to parse JSON
+app.use(express.json());
+
+// Endpoint to get the farmer data
+app.get('/data', (req, res) => {
+    fs.readFile('data.json', 'utf8', (err, data) => {
+        if (err) {
+            res.status(500).send('Error reading data');
+            return;
+        }
+        res.json(JSON.parse(data));
+    });
 });
 
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+// Start server
+app.listen(port, () => {
+    console.log(`Server running on http://localhost:${port}`);
 });
