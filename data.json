@@ -2,7 +2,7 @@
     {
         "id": 1,
         "farmer_name": "Balaraam Patil",
-        "photo_link": "Basmati Rice",
+        "photo_link": "https://skrmindia.com/blog/wp-content/uploads/2017/09/Basmati-Rice-Paddy-Shree-krishna-rice-mills.jpg",
         "caption": "Lush green rice fields of basmati rice",
         "category": "Grain",
         "location": "Raigad Maharashtra India",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "farmer_name": "Balaraam Patil",
-        "photo_link": "Pulses",
+        "photo_link": "https://www.topcropmanager.com/wp-content/uploads/2023/08/Copy-of-Copy-of-WTCM26-4-IMG_0979-RD.jpg",
         "caption": "High-quality pulses",
         "category": "Grain",
         "location": "Raigad Maharashtra India",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "farmer_name": "Vikram Bidaye",
-        "photo_link": "Coconut Farming",
+        "photo_link": "https://krushi.world/wp-content/uploads/2022/01/Coconut-Farming.webp",
         "caption": "Huge coconut trees filled with coconuts",
         "category": "Fruit",
         "location": "Ratnagiri Maharashtra India",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "farmer_name": "Vikram Bidaye",
-        "photo_link": "Cashew Tree",
+        "photo_link": "https://kimmyfarm.com/wp-content/uploads/2021/02/vuong-trong-dieu-tai-dat-nuoc-campuchia.jpg",
         "caption": "Cashew tree with fruits",
         "category": "Fruit",
         "location": "Ratnagiri Maharashtra India",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "farmer_name": "Vikram Bidaye",
-        "photo_link": "Spices",
+        "photo_link": "https://cordis.europa.eu/docs/news/images/2021-10/434326.jpg",
         "caption": "Freshly harvested spices",
         "category": "Spice",
         "location": "Ratnagiri Maharashtra India",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "farmer_name": "Amrit Singh",
-        "photo_link": "Wheat Crop",
+        "photo_link": "https://www.protectourlivelihood.in/wp-content/uploads/2018/09/wheat-377x237.jpg",
         "caption": "Wheat crops spread across acres",
         "category": "Grain",
         "location": "Amritsar Punjab India",
@@ -62,7 +62,7 @@
     {
         "id": 7,
         "farmer_name": "Amrit Singh",
-        "photo_link": "Barley",
+        "photo_link": "https://static.vecteezy.com/system/resources/previews/002/160/123/large_2x/green-barley-fields-photo.jpg",
         "caption": "Barley crop growing nicely",
         "category": "Grain",
         "location": "Amritsar Punjab India",
@@ -72,7 +72,7 @@
     {
         "id": 8,
         "farmer_name": "Rakesh Kumar",
-        "photo_link": "Lentils Harvest",
+        "photo_link": "https://www.asiafarming.com/wp-content/uploads/2023/01/Lentil-Farming-Practices1.jpg",
         "caption": "Yellow lentils ready for harvest",
         "category": "Grain",
         "location": "Patna Bihar India",
@@ -82,7 +82,7 @@
     {
         "id": 9,
         "farmer_name": "Rakesh Kumar",
-        "photo_link": "Chickpeas",
+        "photo_link": "https://pulsepod.globalpulses.com/files/blog/20200108205644_indiarabisowing-g.jpg",
         "caption": "Chickpeas grown in fields",
         "category": "Grain",
         "location": "Patna Bihar India",
@@ -92,7 +92,7 @@
     {
         "id": 10,
         "farmer_name": "Rajesh Yadav",
-        "photo_link": "Jowar Crop",
+        "photo_link": "https://www.aliveterinarywisdom.com/wp-content/uploads/2020/07/2-12-july-sorghum2-750x375.jpg",
         "caption": "Jowar crop thriving under the sun",
         "category": "Grain",
         "location": "Varanasi Uttar Pradesh India",
@@ -102,7 +102,7 @@
     {
         "id": 11,
         "farmer_name": "Preeti Rani",
-        "photo_link": "Bajra Crop",
+        "photo_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAAq5jJeI5csNfeByn0JV03rrAiX-RU9pNAzPP59yOpRJ7gfv6z4R-45sUfQ&s",
         "caption": "Healthy bajra (pearl millet) crop",
         "category": "Grain",
         "location": "Jaipur Rajasthan India",
@@ -112,7 +112,7 @@
     {
         "id": 12,
         "farmer_name": "Shyam Verma",
-        "photo_link": "Groundnuts",
+        "photo_link": "https://agritech.tnau.ac.in/agriculture/images-new/dryland_highyielding/gnut1.png",
         "caption": "Groundnuts harvested and ready to sell",
         "category": "Grain",
         "location": "Bhavnagar Gujarat India",
@@ -122,7 +122,7 @@
     {
         "id": 13,
         "farmer_name": "Shyam Verma",
-        "photo_link": "Cotton",
+        "photo_link": "https://keitopalette.wordpress.com/wp-content/uploads/2015/09/moore-cotton-field.jpg",
         "caption": "Cotton crop grown in full bloom",
         "category": "Textile",
         "location": "Bhavnagar Gujarat India",
@@ -132,7 +132,7 @@
     {
         "id": 14,
         "farmer_name": "Shyam Verma",
-        "photo_link": "Millets",
+        "photo_link": "https://www.agronomy.org/files/images/news/vetriventhan-img-20161102-800x600.jpg",
         "caption": "Millets swaying in the wind",
         "category": "Grain",
         "location": "Bhavnagar Gujarat India",
@@ -142,7 +142,7 @@
     {
         "id": 15,
         "farmer_name": "Sumanth Reddy",
-        "photo_link": "Sorghum Crop",
+        "photo_link": "https://www.en.krishakjagat.org/wp-content/uploads/2023/10/Untitled-1-8.jpg",
         "caption": "Sorghum crop swaying in the wind",
         "category": "Grain",
         "location": "Anantapur Andhra Pradesh India",
@@ -152,7 +152,7 @@
     {
         "id": 16,
         "farmer_name": "Sumanth Reddy",
-        "photo_link": "Millets",
+        "photo_link": "https://blog.agribazaar.com/wp-content/uploads/2023/02/Millet-or-Sorghum-an-important-cereal-crop-in-field-Sorghum-a-widely-cultivated-cereal-native-to-warm-regions.-It-is-a-major-source-of-grain-and-of-feed-for-livestock.jpg",
         "caption": "Millets in sunshine",
         "category": "Grain",
         "location": "Anantapur Andhra Pradesh India",
@@ -162,7 +162,7 @@
     {
         "id": 17,
         "farmer_name": "Nitesh Patel",
-        "photo_link": "Cotton Bolls",
+        "photo_link": "https://files.worldwildlife.org/wwfcmsprod/images/Cotton_09.21.12_Industries/hero_small/74bop80spn_133837741.jpg",
         "caption": "Fresh cotton bolls ready for picking",
         "category": "Textile",
         "location": "Surat Gujarat India",
@@ -172,7 +172,7 @@
     {
         "id": 18,
         "farmer_name": "Geeta Devi",
-        "photo_link": "Red Chili",
+        "photo_link": "https://www.shutterstock.com/image-photo/fresh-red-green-chillies-growing-600nw-1080957656.jpg",
         "caption": "Array of dried red chili",
         "category": "Spice",
         "location": "Guntur Andhra Pradesh India",
@@ -182,7 +182,7 @@
     {
         "id": 19,
         "farmer_name": "Ajay Sharma",
-        "photo_link": "Mustard Seeds",
+        "photo_link": "https://www.villagesquare.in/wp-content/uploads/2021/12/Mustard-01.jpg",
         "caption": "Mustard seeds growing in abundance",
         "category": "Oilseeds",
         "location": "Kota Rajasthan India",
@@ -192,7 +192,7 @@
     {
         "id": 20,
         "farmer_name": "Ajay Sharma",
-        "photo_link": "Barley",
+        "photo_link": "https://peacedeen.wordpress.com/wp-content/uploads/2012/04/12168242.jpg",
         "caption": "Nutritious Barley",
         "category": "Grain",
         "location": "Kota Rajasthan India",
@@ -202,7 +202,7 @@
     {
         "id": 21,
         "farmer_name": "Abhishek Singh",
-        "photo_link": "Bajra",
+        "photo_link": "https://icrisat.org/assets/crops/pearlmillet-crop-image-1.jpg",
         "caption": "Bajra crop flourishing",
         "category": "Grain",
         "location": "Bhopal Madhya Pradesh India",
@@ -212,7 +212,7 @@
     {
         "id": 22,
         "farmer_name": "Kavita Patil",
-        "photo_link": "Maize Fields",
+        "photo_link": "https://www.asiafarming.com/wp-content/uploads/2015/11/Maize-Filed.jpg",
         "caption": "Maize fields stretching far and wide",
         "category": "Grain",
         "location": "Kolhapur Maharashtra India",
@@ -222,7 +222,7 @@
     {
         "id": 23,
         "farmer_name": "Kavita Patil",
-        "photo_link": "Cotton",
+        "photo_link": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:47200:47292/full/pct:6.25/0/default.jpg",
         "caption": "Cotton fields in sunshine",
         "category": "Textile",
         "location": "Kolhapur Maharashtra India",
@@ -232,7 +232,7 @@
     {
         "id": 24,
         "farmer_name": "Vivek Rao",
-        "photo_link": "Black Gram",
+        "photo_link": "https://5.imimg.com/data5/SELLER/Default/2023/9/345343477/BP/LZ/OB/77866071/black-gram-seeds-500x500.jpg",
         "caption": "Black gram pulses ready for collection",
         "category": "Grain",
         "location": "Hyderabad Telangana India",
@@ -242,7 +242,7 @@
     {
         "id": 25,
         "farmer_name": "Gauri Deshmukh",
-        "photo_link": "Chickpeas",
+        "photo_link": "https://cropgenebank.sgrp.cgiar.org/images/chickpea/chickpea_plant.jpg",
         "caption": "Fresh chickpeas ripe and ready",
         "category": "Grain",
         "location": "Nagpur Maharashtra India",
@@ -252,7 +252,7 @@
     {
         "id": 26,
         "farmer_name": "Anil Choudhary",
-        "photo_link": "Soybean Fields",
+        "photo_link": "https://www.ndsu.edu/agriculture/sites/default/files/styles/784x424/public/2021-06/ND17009GT-CREC.jpg?h=71976bb4&itok=ReqB_wcN",
         "caption": "Fields of soybean shining under the sun",
         "category": "Grain",
         "location": "Indore Madhya Pradesh India",
@@ -262,7 +262,7 @@
     {
         "id": 27,
         "farmer_name": "Anil Choudhary",
-        "photo_link": "Pulses",
+        "photo_link": "https://exyaj2vf4cf.exactdn.com/wp-content/uploads/2022/11/Devleoping-new-varieties-of-peas-is-a-key-focus-of-the-breeding-collaboration-HERO.jpg?strip=all&lossy=1&ssl=1",
         "caption": "Pulses grown in good conditions",
         "category": "Grain",
         "location": "Indore Madhya Pradesh India",
@@ -272,7 +272,7 @@
     {
         "id": 28,
         "farmer_name": "Pooja Jat",
-        "photo_link": "Barley Crops",
+        "photo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg/1200px-Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg",
         "caption": "Barley crops swaying in the breeze",
         "category": "Grain",
         "location": "Jodhpur Rajasthan India",
@@ -282,7 +282,7 @@
     {
         "id": 29,
         "farmer_name": "Harish Gupta",
-        "photo_link": "Green Gram",
+        "photo_link": "https://agritech.tnau.ac.in/agriculture/English%20Version/Agriculture/CropProduction/Pulses/pulses_greengram_clip_image008.jpg",
         "caption": "Green gram (moong) pulses growing healthily",
         "category": "Grain",
         "location": "Lucknow Uttar Pradesh India",
@@ -292,7 +292,7 @@
     {
         "id": 30,
         "farmer_name": "Manjeet Kaur",
-        "photo_link": "Black Peppercorns",
+        "photo_link": "https://www.westhawaiitoday.com/wp-content/uploads/2016/02/2891930_web1_1-Black-Pepper-plants-sanherb.com_.jpg",
         "caption": "Black peppercorns drying in the sun",
         "category": "Spice",
         "location": "Pathankot Punjab India",
@@ -302,7 +302,7 @@
     {
         "id": 31,
         "farmer_name": "Tejaswini Naik",
-        "photo_link": "Coriander Seeds",
+        "photo_link": "https://beaconcommodities.com/wp-content/uploads/sussex-coriander-field.jpg",
         "caption": "Coriander seeds harvested for market",
         "category": "Spice",
         "location": "Dharwad Karnataka India",
@@ -312,7 +312,7 @@
     {
         "id": 32,
         "farmer_name": "Mukesh Solanki",
-        "photo_link": "Cotton Harvest",
+        "photo_link": "https://resources.lcms.org/wp-content/uploads/2014/10/cotton-fields.jpg",
         "caption": "Cotton fields ready for harvest",
         "category": "Textile",
         "location": "Ujjain Madhya Pradesh India",
@@ -322,7 +322,7 @@
     {
         "id": 33,
         "farmer_name": "Mukesh Solanki",
-        "photo_link": "Groundnuts",
+        "photo_link": "https://assets-news.housing.com/news/wp-content/uploads/2022/10/14183238/Arachis-Hypogaea-FEATURE-compressed.jpg",
         "caption": "Groundnuts planted with cotton",
         "category": "Grain",
         "location": "Ujjain Madhya Pradesh India",
@@ -332,7 +332,7 @@
     {
         "id": 34,
         "farmer_name": "Deepak Jadhav",
-        "photo_link": "Groundnuts",
+        "photo_link": "https://www.agrifarming.in/wp-content/uploads/2022/01/Groundnut-Farming5.jpg",
         "caption": "Groundnuts prepared for processing",
         "category": "Grain",
         "location": "Nashik Maharashtra India",
@@ -342,7 +342,7 @@
     {
         "id": 35,
         "farmer_name": "Ashok Rana",
-        "photo_link": "Rice Fields",
+        "photo_link": "https://bdn-ss-hh.s3.amazonaws.com/uploads/2019/07/ricefarming1-1024x768.jpg",
         "caption": "Thriving rice fields ready for harvest",
         "category": "Grain",
         "location": "Karnal Haryana India",
@@ -352,7 +352,7 @@
     {
         "id": 36,
         "farmer_name": "Ashok Rana",
-        "photo_link": "Millets",
+        "photo_link": "https://images.squarespace-cdn.com/content/v1/62a25a4f07852b146225d39a/1997b192-4a62-44da-8f77-606f9b49786c/IMG_1821.jpg",
         "caption": "Millets growing with other crops",
         "category": "Grain",
         "location": "Karnal Haryana India",
@@ -362,7 +362,7 @@
     {
         "id": 37,
         "farmer_name": "Lata Sharma",
-        "photo_link": "Flax Seeds",
+        "photo_link": "https://nouveauraw.com/wp-content/uploads/2018/04/flax-seed-flowers-800x533.jpg",
         "caption": "High-quality flax seeds",
         "category": "Oilseeds",
         "location": "Alwar Rajasthan India",
@@ -372,7 +372,7 @@
     {
         "id": 38,
         "farmer_name": "Suresh Chauhan",
-        "photo_link": "Mustard Oilseeds",
+        "photo_link": "https://static.theprint.in/wp-content/uploads/2023/05/Mustard_farming_in_Himachal_Pradesh-e1684220319982-1024x681.jpg",
         "caption": "Mustard oilseeds for oil extraction",
         "category": "Oilseeds",
         "location": "Jalandhar Punjab India",
@@ -382,7 +382,7 @@
     {
         "id": 39,
         "farmer_name": "Sanjay Borkar",
-        "photo_link": "Turmeric",
+        "photo_link": "https://iiaasd.com/wp-content/uploads/2019/07/image002-7.jpg",
         "caption": "Freshly harvested turmeric",
         "category": "Spice",
         "location": "Nanded Maharashtra India",
@@ -392,7 +392,7 @@
     {
         "id": 40,
         "farmer_name": "Vinay Shetty",
-        "photo_link": "Black Pepper",
+        "photo_link": "https://www.shutterstock.com/image-photo/pepper-garden-farm-phu-quoc-600nw-1134050936.jpg",
         "caption": "Black peppercorns ready for market",
         "category": "Spice",
         "location": "Mangalore Karnataka India",
@@ -402,7 +402,7 @@
     {
         "id": 41,
         "farmer_name": "Pankaj Rathi",
-        "photo_link": "Wheat",
+        "photo_link": "https://farmingcosmos.com/wp-content/uploads/2021/07/IMG_20210326_154728-1024x768.jpg",
         "caption": "Wheat fields in full bloom",
         "category": "Grain",
         "location": "Aligarh Uttar Pradesh India",
@@ -412,7 +412,7 @@
     {
         "id": 42,
         "farmer_name": "Shikha Mehra",
-        "photo_link": "Bajra Crop",
+        "photo_link": "https://agrosiaa.com/uploads/userdata/crop_images/bajra/bajra_cover_image.png",
         "caption": "Bajra crop ready for harvest",
         "category": "Grain",
         "location": "Bikaner Rajasthan India",
